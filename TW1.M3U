@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:The K-POP
+https://git.io/JgYAE
+#EXTINF:Sexy K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8#https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8#https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:網路流行音樂電台
+https://git.io/JgkA6
+#EXTINF:台灣,#genre#
+#EXTINF:民視
+http://23.237.10.66:16334
+#EXTINF:民視
+https://epg.pm/stream/0a11a34a06d068675620424161531c78538c6e3c06e6a739f4bb941447024950.ctv
+#EXTINF:民視
+https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
